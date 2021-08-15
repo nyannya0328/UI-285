@@ -38,7 +38,7 @@ struct Home: View {
                             Circle()
                                 .trim(from: 0, to: bowAnimation ? 0.5 : 0)
                                 .stroke(
-                                
+                                   
                                 
                                 LinearGradient(colors: [
                                 
