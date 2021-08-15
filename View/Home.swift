@@ -40,7 +40,7 @@ struct Home: View {
                                 .stroke(
                                    
                                 
-                                LinearGradient(colors: [
+                                  LinearGradient(colors: [
                                 
                                 
                                     Color("Gradient1"),
